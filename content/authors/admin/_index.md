@@ -64,21 +64,17 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Movies
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: watching movies
         icon_pack: fas
-      - name: Cats
+      - name: Books
         description: ''
         percent: 100
-        icon: cat
+        icon: reading books
         icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -101,8 +97,8 @@ social:
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+    icon_pack: marine science
+    link: uploads/CV_Haocheng Yang_final.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
